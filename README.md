@@ -102,7 +102,7 @@ The dataset structure follows the Kaggle hackathon format. Check out the competi
 ## Repository Structure
 
 ```
-heat-equation-llm/
+ThermalGPT/
 │
 ├── data/                # Generated VTK files and tokenized datasets
 ├── scripts/             # Python scripts for data generation and training
