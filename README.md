@@ -100,15 +100,16 @@ The dataset structure follows the Kaggle hackathon format. Check out the competi
 - Perform evaluation with test datasets reflecting unseen scenarios.
 
 ## Repository Structure
-
+```
 ThermalGPT/
-│   README.md            # Project documentation
-│
 ├── data/                # Generated VTK files and tokenized datasets
 ├── gen_data/            # Script for generating synthetic data
+├── scripts/             # Python scripts for data generation and training
 ├── models/              # Checkpoints and model outputs
 ├── results/             # Evaluation metrics and visualizations
-└── scripts/             # Python scripts for data generation and training
+└── README.md            # Project documentation
+```
+
 ## References
 
 - [Kaggle Competition: Fine-Tuning LM for Physical Interpretation Hackathon](https://www.kaggle.com/competitions/fine-tuning-lm-physical-interpretation-hackathon)
