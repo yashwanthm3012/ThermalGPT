@@ -114,9 +114,3 @@ ThermalGPT/
 
 - [Kaggle Competition: Fine-Tuning LM for Physical Interpretation Hackathon](https://www.kaggle.com/competitions/fine-tuning-lm-physical-interpretation-hackathon)
 - [IBM Granite 3.1 Model Documentation](https://huggingface.co/ibm-granite/granite-3.1-2b-base)
-
-## License
-
-This project is licensed under the MIT License.
-
-
