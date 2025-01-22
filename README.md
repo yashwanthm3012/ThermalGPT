@@ -105,6 +105,9 @@ The dataset structure follows the Kaggle hackathon format. Check out the competi
 ThermalGPT/
 │
 ├── data/                # Generated VTK files and tokenized datasets
+        |
+        |---- gen_data   #script for generating synthetic data
+                         
 ├── scripts/             # Python scripts for data generation and training
 ├── models/              # Checkpoints and model outputs
 ├── results/             # Evaluation metrics and visualizations
